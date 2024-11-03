@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siris, a computer science student
+- 👋 Hi, I’m Siris, a computer science student from LI, NY
 - 👀 I’m interested in Threat research and detection
 - 🌱 I’m currently learning terraform and AWS along with web application security
 - 📫 How to reach me sst.victor05@gmail.com
