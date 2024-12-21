@@ -1,6 +1,6 @@
 ## Welcome 🏆
 
-I'm a Computer Science student focused on learning more about security engineering alongside ML & AI.
+I'm a Computer Science student focused on learning more about security engineering. I'm also interested in exploring the intersection of ML & AI.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
