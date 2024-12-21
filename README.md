@@ -16,7 +16,7 @@ I'm a Computer Science student focused on learning more about security engineeri
 
 <h2> 🤳 Connect with me:</h2>
 
-I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/), and [Medium](https://medium.com/@sst.victor05).
+I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and [Medium](https://medium.com/@sst.victor05).
 
 
 
