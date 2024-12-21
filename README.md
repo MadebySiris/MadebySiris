@@ -12,6 +12,12 @@ I'm a Computer Science student focused on learning more about security engineeri
   - [Linux Threat Detection](https://github.com/MadebySiris/Linux-Threat-Detection/)
 - <b> Network Forensics Investigation with PCAP Analysis </b>
   - [Network Forensics Investigation with PCAP Analysis](https://github.com/MadebySiris/Network-Forensics)
+ 
+ <h2> 🛠️ Skills & Technologies: </h2>
+            Programming Languages: Python, Java, C++
+            Tools & Frameworks: TensorFlow, PyTorch, Scikit-learn
+            Cybersecurity: Wireshark, Metasploit, Nmap
+            Cloud Platforms: AWS, Azure
   
 
 <h2> 🤳 Connect with me:</h2>
