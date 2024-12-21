@@ -10,10 +10,15 @@ I'm a Computer Science student focused on learning more about security engineeri
   - [Windows Active Directory Threat Detection](https://github.com/MadebySiris/Windows-Active-Directory-Detection)
 - <b>Linux Threat Detection </b>
   - [Linux Threat Detection](https://github.com/MadebySiris/Linux-Threat-Detection/)
-
+- <b> Network Forensics Investigation with PCAP Analysis </b>
+  - [Network Forensics Investigation with PCAP Analysis](https://github.com/MadebySiris/Network-Forensics)
+  
 
 <h2> 🤳 Connect with me:</h2>
-I'm on [LinkedIn]https://www.linkedin.com/in/siris-st-victor-a42329260/,and [dssesss](https://medium.com/@sst.victor05).
+
+I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/), and [Medium](https://medium.com/@sst.victor05).
+
+
 
   
 
