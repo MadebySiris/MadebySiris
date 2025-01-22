@@ -1,6 +1,6 @@
 ## Welcome 🏆
 
-I'm a Computer Science student focused on learning more about security engineering. I'm also interested in exploring the intersection between AI & ML.
+I'm a Computer Science student focused on learning more about security & infrastructure engineering. I'm also interested in exploring the intersection between AI & ML.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -17,9 +17,6 @@ I'm a Computer Science student focused on learning more about security engineeri
 <h2> 🤳 Connect with me:</h2>
 
 I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and [Medium](https://medium.com/@sst.victor05).
-
-
-
   
 
 <!--
@@ -32,12 +29,12 @@ You can click the Preview link to take a look at your changes.
 - 📫 I'm easiest to reach @ sst.victor05@gmail.com
 -  I'm open to collaborating on Cloud Based Projects, Security Engineering, Threat Detection content, Home Labs, & more.
 💭 Ask me about 💭 
-- Audit-logs.tax
+- Detection engineering
 - Detection for critical apps
-- Eccentric spots in Denver
-- Hungarian grammar structures
-- Tortoiseshell cats
-- Brat summers
+- Carribean Food 
+- Muay Thai
+- Anime & Manga
+- Music, Rap Music
 -->
 
 
