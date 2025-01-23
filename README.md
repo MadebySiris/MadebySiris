@@ -10,9 +10,6 @@ I'm a Computer Science student focused on learning more about security & infrast
   - [Windows Active Directory Threat Detection](https://github.com/MadebySiris/Windows-Active-Directory-Detection)
 - <b>Linux Threat Detection </b>
   - [Linux Threat Detection](https://github.com/MadebySiris/Linux-Threat-Detection/)
-- <b> Network Forensics Investigation with PCAP Analysis </b>
-  - [Network Forensics Investigation with PCAP Analysis](https://github.com/MadebySiris/Network-Forensics)
- 
 
 <h2> 🤳 Connect with me:</h2>
 
