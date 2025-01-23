@@ -25,9 +25,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning terraform and AWS along with web application security
 - 📫 I'm easiest to reach @ sst.victor05@gmail.com
 -  I'm open to collaborating on Cloud Based Projects, Security Engineering, Threat Detection content, Home Labs, & more.
-💭 Ask me about 💭 
+</h2> 💭 Ask me about 💭 </h2>
 - Detection engineering
-- Detection for critical apps
 - Carribean Food 
 - Muay Thai
 - Anime & Manga
