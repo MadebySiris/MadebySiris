@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 -  I'm open to collaborating on Cloud Based Projects, Security Engineering, Threat Detection content, Home Labs, & more.
 </h2> 💭 Ask me about 💭 </h2>
 - Detection engineering
-- Carribean Food 
+- Food, Carribean Food  
 - Muay Thai
 - Anime & Manga
 - Music, Rap Music
