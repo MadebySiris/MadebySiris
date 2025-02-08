@@ -2,14 +2,9 @@
 
 I'm a Computer Science student focused on learning more about security & infrastructure engineering. I'm also interested in exploring the intersection between AI & ML.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 🏁 Community Contributions :</h2>
 
-- <b>AWS Threat Detection </b>
-  - [AWS Threat Detection](https://github.com/MadebySiris/AWS-Threat-Detection)
-- <b>Windows Active Directory Threat Detection </b>
-  - [Windows Active Directory Threat Detection](https://github.com/MadebySiris/Windows-Active-Directory-Detection)
-- <b>Linux Threat Detection </b>
-  - [Linux Threat Detection](https://github.com/MadebySiris/Linux-Threat-Detection/)
+You can find some of my contributions to the information security community [here](https://github.com/MadebySiris/community-contributions)
 
 <h2> 🤳 Connect with me:</h2>
 
