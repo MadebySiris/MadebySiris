@@ -1,6 +1,6 @@
 ## Welcome 🏆
 
-I'm a Computer Science student focused on learning more about security & infrastructure engineering. I'm also interested in exploring the intersection between AI & ML.
+I'm a Computer Science student focused on learning more about security & infrastructure engineering. 
 
 <h2> 🏁 Community Contributions</h2>
 
