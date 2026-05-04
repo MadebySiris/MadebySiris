@@ -1,11 +1,12 @@
 ## Welcome 🏆
 
-I'm a Computer Science student focused on learning more about security & infrastructure engineering. 
+I'm a Computer Science student focused on learning more about security & infrastructure engineering. I'm Currently working on threat detection and security automation homelabs and I would love to collab
+on threat hunting, detection and security automation labs and projects
 
 
-<h2> 🤳 Connect with me</h2>
+<h2> 🤳 Connect with me </h2>
 
-I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and [Medium](https://medium.com/@sst.victor05).
+I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and see[Site](https://siristvictor.com/) for more.
 
 
 <!--
