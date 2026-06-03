@@ -1,6 +1,6 @@
 ## Welcome 🏆
 
-I'm a Computer Science student focused on learning more about security & infrastructure engineering. I'm Currently working on threat detection and security automation homelabs. I would love to collaborate
+I'm a Computer Science student focused on learning more about security engineering. I'm Currently working on threat detection and security automation homelabs. I would love to collaborate
 on threat hunting, detection and security automation labs and projects
 
 
