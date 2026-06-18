@@ -6,7 +6,7 @@ on threat hunting, detection and security automation labs and projects
 
 <h2> 🤳 Connect with me </h2>
 
-I'm on [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and see [Site](https://siristvictor.com/) for more.
+I'm on at  [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and see my domain [domain](https://siristvictor.com/) for more.
 
 
 <!--
