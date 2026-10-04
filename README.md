@@ -6,7 +6,7 @@ on threat hunting, detection and security automation labs and projects.
 
 <h2> 🤳 Connect with me </h2>
 
-I'm on at  [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and see my [community contribution](https://github.com/MadebySiris/community-contributions) for more.
+I'm on at  [LinkedIn](https://www.linkedin.com/in/siris-st-victor-a42329260/) and see my [community contributions](https://github.com/MadebySiris/community-contributions) for more.
 
 
 <!--
